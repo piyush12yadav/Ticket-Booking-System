@@ -1,4 +1,4 @@
-#🚆✨ Ticket Booking System – 
+# 🚆✨ Ticket Booking System – 
 Your Gateway to Seamless Train Travel!
 Imagine booking a train ticket as smooth as scrolling your feed — that’s what we built.
 A fast, simple, secure, and interactive CLI-based Train Ticket Booking System powered by Java & JSON.
