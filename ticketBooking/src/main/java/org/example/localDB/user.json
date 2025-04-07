@@ -1,0 +1,13 @@
+[ {
+  "name" : "Lovepreet Singh",
+  "password" : null,
+  "hashed_password" : "12345",
+  "ticket_booked" : null,
+  "user_id" : "abcdef"
+}, {
+  "name" : "piyush",
+  "password" : "abcd",
+  "hashed_password" : "$2a$10$Lx7FjjQPOTC0u1DKSDPAK.NYLwh4/0OwmehwIlQToPX3TsOzUnHbC",
+  "ticket_booked" : [ ],
+  "user_id" : "664cc2ad-0b82-4027-9538-2ee8cae5223d"
+} ]
